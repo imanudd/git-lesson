@@ -7,4 +7,5 @@ func main() {
 
 	fmt.Println("feat 3")
 	fmt.Println("feat 3/1")
+	fmt.Println("feat 3/2")
 }
